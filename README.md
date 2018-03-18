@@ -6,15 +6,27 @@ Impact Todo is a simple todo app that can:
 * Read todo
 * Delete todo
 
+---
+
 ## App
 
-* Visit [Impact Todo](https://impactodo.netlify.com)
+### Live on the Internet
+
+Visit [Impact Todo](https://impactodo.netlify.com).
+
+### Run locally
+
+Open `index.html` file on your web browser.
+
+---
 
 ## Design on Figma
 
 * Inspiration from [TodoMVC](http://todomvc.com)
 * Visit [Mockup v1](https://www.figma.com/file/ID5EGTB6c4ARMn2CwfRe3AL1/Mockup-v1)
 * Visit [Interactive Prototype v1](https://www.figma.com/proto/ID5EGTB6c4ARMn2CwfRe3AL1/Mockup-v1)
+
+---
 
 ## Application Features
 
