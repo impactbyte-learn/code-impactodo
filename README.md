@@ -1,10 +1,14 @@
-# Impact Todo
+# [Impact Todo](https://github.com/impactbyte-learn/code-impactodo)
 
 Impact Todo is a simple todo app that can:
 
 * Create todo
 * Read todo
 * Delete todo
+
+## App
+
+* Visit [Impact Todo](https://impactodo.netlify.com)
 
 ## Design on Figma
 
