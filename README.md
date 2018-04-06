@@ -1,22 +1,8 @@
 # [Impact Todo](https://github.com/impactbyte-learn/code-impactodo)
 
-Impact Todo is a simple todo app that can:
+Impact Todo is a simple todo app.
 
-* Create todo
-* Read todo
-* Delete todo
-
----
-
-## App
-
-### Live on the Internet
-
-Visit [Impact Todo](https://impactodo.netlify.com).
-
-### Run locally
-
-Open `index.html` file on your web browser.
+Visit [Impact Todo](https://impactodo.netlify.com)
 
 ---
 
